@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:53.309946
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:25
 #+TITLE: 大寶積經述
 #+PROPERTY: CBETA_ID X10n0264
 #+PROPERTY: ID KR6f0104
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 10, No. 264
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0104_X_001-0771a> 
 #+PROPERTY: JUAN 1
-No.264¶
-
- 大寶積經述¶
+No. 264¶
+大寶積經述¶
 唐朝議郎行河南府告成縣主簿徐鍔撰¶
 
 夫日月出矣。而輝耀十方。時雨降矣。而澡灑萬物。況¶
